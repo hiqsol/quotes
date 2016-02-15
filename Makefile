@@ -11,7 +11,7 @@ all		:	${all_file}
 
 force		:	clean all
 
-clean		:	
+clean		:
 	rm -f ${all_file}
 
 ${all_file}	:	${all_files}
