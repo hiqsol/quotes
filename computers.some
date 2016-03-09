@@ -37,5 +37,42 @@ these organizations.
 
 The object-oriented version of spaghetti code is, of course,
 'lasagna code'. Too many layers.
-        Roberto Waltman.
+        Roberto Waltman
+
+Computer science is no more about computers than astronomy is about telescopes.
+        Edsger Dijkstra
+
+One of my most productive days was throwing away 1,000 lines of code.
+        Ken Thompson
+
+If Java had true garbage collection, most programs would delete
+themselves upon execution.
+        Robert Sewell
+
+Good code is its own best documentation.
+        Steve McConnell
+
+Software and cathedrals are much the same – first we build them,
+then we pray.
+        Samuel T. Redwine Jr.
+
+Good judgement is the result of experience.
+Experience is the result of bad judgement.
+        Fred Brooks
+
+Pasting code from the Internet into production code is like
+chewing gum found in the street.
+        Mike Johnson
+
+Any fool can write code that a computer can understand.
+Good programmers write code that humans can understand.
+        Martin Fowler
+
+Always do the hard part first. If the hard part is impossible,
+why waste time on the easy part?
+        Al Schapira
+
+If you aren't sure which way to do something,
+do it both ways and see which works better.
+        John Carmack
 
