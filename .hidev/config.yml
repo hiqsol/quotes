@@ -1,0 +1,28 @@
+package:
+    type:           project
+    name:           quotes
+    title:          Quotes, aphorisms, anecdotes
+    license:        MIT
+    headline:       Quotes
+    keywords:       quotes, aphorisms, anecdotes
+    description:    |
+        Just my collection of smart and funny thoughts.
+
+vendor:
+    name:           hiqsol
+    title:          Andrii Vasyliev
+    homepage:       sol@hiqdev.com
+    authors:
+        hiqsol:
+            name:       Andrii Vasyliev
+            email:      sol@hiqdev.com
+
+plugins:
+    hiqdev/hidev-readme: "*"
+    hiqdev/hidev-license: "*"
+
+default:
+    before:
+        - README.md
+        - LICENSE
+        - .gitignore
