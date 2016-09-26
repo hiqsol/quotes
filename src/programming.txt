@@ -1,0 +1,4 @@
+
+    Duck typing: dynamic mechanism allowing to discover that a fish cannot say quack
+    only at runtime ... in production ... on Friday evening
+
