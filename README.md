@@ -10,4 +10,4 @@ Just my collection of smart and funny thoughts.
 This project is released under the terms of the MIT [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/mit).
 
-Copyright © 2014-2016, Andrii Vasyliev (sol@hiqdev.com)
+Copyright © 2014-2017, Andrii Vasyliev (sol@hiqdev.com)

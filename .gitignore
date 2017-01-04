@@ -1,6 +1,7 @@
 # hidev internals
 .hidev/composer.json
 .hidev/composer.lock
+.hidev/config-local.yml
 .hidev/vendor
 
 # IDE & OS files
@@ -12,3 +13,6 @@
 .settings
 Thumbs.db
 nbproject
+
+# Binaries
+composer.phar
