@@ -3,7 +3,8 @@ Quotes
 
 **Quotes, aphorisms, anecdotes**
 
-Just my collection of smart and funny thoughts.
+Just my collection of smart and/or funny thoughts.
+And `bin/random` python script to get a random one.
 
 ## License
 
