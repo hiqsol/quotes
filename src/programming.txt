@@ -1,4 +1,3 @@
-
 Duck typing: dynamic mechanism allowing to discover that a fish cannot say quack
 only at runtime ... in production ... on Friday evening
 
@@ -6,3 +5,7 @@ Debugging is twice as hard as writing code in the first place. Therefore,
 if you write the code as cleverly as possible, you are, by definition,
 not smart enough to debug it.
         Brian Kernighan
+
+Contrary to popular belief, Unix is user friendly.
+It just happens to be selective about who it makes friends with.
+        Dave Parnas
