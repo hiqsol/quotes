@@ -17,3 +17,7 @@ not smart enough to debug it.
 Contrary to popular belief, Unix is user friendly.
 It just happens to be selective about who it makes friends with.
         Dave Parnas
+
+Telling a programmer there's already a library to do X is like
+telling a songwriter there's already a song about love.
+        @petecordell
