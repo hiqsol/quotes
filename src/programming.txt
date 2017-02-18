@@ -21,3 +21,14 @@ It just happens to be selective about who it makes friends with.
 Telling a programmer there's already a library to do X is like
 telling a songwriter there's already a song about love.
         @petecordell
+
+If debugging is the process of removing software bugs,
+then programming must be the process of putting them in.
+        Edsger Dijkstra
+
+Would you rather Test-First or Debug-Later?
+        Robert Marti
+
+Being a good programmer is 3% talent 97% not being distracted by the internet.
+        @MSFTImagine
+
