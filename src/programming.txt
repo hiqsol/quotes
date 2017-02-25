@@ -32,3 +32,17 @@ Would you rather Test-First or Debug-Later?
 Being a good programmer is 3% talent 97% not being distracted by the internet.
         @MSFTImagine
 
+Controlling complexity is the essence of computer programming.
+        Brian Kernigham
+
+A primary cause of complexity is that software vendors uncritically
+adopt almost any feature that users want.
+        Niklaus Wirth
+
+No one in the brief history of computing has ever written a piece
+of perfect software. It's unlikely that you'll be the first.
+        Andy Hunt
+
+Everybody wants to write reusable code.
+Nobody wants to reuse anyone else's code.
+        @eryno

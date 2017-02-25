@@ -325,3 +325,6 @@ The gap between theory and practice is not as wide in theory as it is in practic
 It is better to do the right problem the wrong way than the wrong
 problem the right way.
         Richard Hamming
+
+When a measure becomes a target, it ceases to be a good measure.
+        Goodhart’s law
