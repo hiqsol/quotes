@@ -94,7 +94,19 @@ will be a violent psychopath who knows where you live.
         Martin Golding
 
 C makes it easy to shoot yourself in the foot; C++ makes it
-harder, but when you do, it blows away your whole leg.
+harder, but when you do, it blows away your whole leg off.
+        Bjarne Stroustrup
+
+There are only two kinds of languages: the ones people complain
+about and the ones nobody uses.
+        Bjarne Stroustrup
+
+I have always wished for my computer to be as easy to use as my telephone;
+my wish has come true because I can no longer figure out how to use my telephone.
+        Bjarne Stroustrup
+
+There are more useful systems developed in languages deemed awful
+than in languages praised for being beautiful--many more.
         Bjarne Stroustrup
 
 Java is to #JavaScript what Car is to Carpet.
