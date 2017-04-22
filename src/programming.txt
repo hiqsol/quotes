@@ -46,3 +46,6 @@ of perfect software. It's unlikely that you'll be the first.
 Everybody wants to write reusable code.
 Nobody wants to reuse anyone else's code.
         @eryno
+
+Good code is its own best documentation.
+        Steve McConnell
