@@ -49,3 +49,13 @@ Nobody wants to reuse anyone else's code.
 
 Good code is its own best documentation.
         Steve McConnell
+
+If you have a procedure with ten parameters, you probably missed some.
+        Alan Perlis
+
+One of the best programming skills you can have is knowing
+when to walk away for awhile.
+        Oscar Godson
+
+Make it correct, make it clear, make it concise, make it fast. In that order.
+        Wes Dyer
