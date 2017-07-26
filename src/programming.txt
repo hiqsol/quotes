@@ -62,3 +62,13 @@ Make it correct, make it clear, make it concise, make it fast. In that order.
 
 Deleted code is debugged code.
         Jeff Sickel
+
+If builders built buildings the way programmers wrote programs,
+then the first woodpecker that came along would destroy civilization.
+        Gerald Weinberg
+
+One accurate measurement is worth a thousand expert opinions.
+        Grace Hopper
+
+The key to performance is elegance, not batalions of special cases.
+        Jon Bentley and Doug McIlroy
