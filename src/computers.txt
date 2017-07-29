@@ -129,3 +129,7 @@ Never trust a computer you can’t throw out a window.
 
 Hardware: The parts of a computer system that can be kicked.
         Jeff Pesis
+
+- How did you know so much about computers?
+- I didn’t, it was the first one.
+        Grace Hopper on Letterman
