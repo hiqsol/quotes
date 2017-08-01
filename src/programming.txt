@@ -76,3 +76,11 @@ The key to performance is elegance, not batalions of special cases.
 It’s not at all important to get it right the first time.
 It’s vitally important to get it right the last time.
         The Pragmatic Programmer
+
+One of the best programming skills you can have
+is knowing when to walk away for a while.
+        Oscar Godson
+
+With so much information now online, a strong work ethic and growth
+mindset, even more than knowledge, predicts your future success.
+        Andrew Ng
