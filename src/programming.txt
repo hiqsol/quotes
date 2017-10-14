@@ -84,3 +84,6 @@ is knowing when to walk away for a while.
 With so much information now online, a strong work ethic and growth
 mindset, even more than knowledge, predicts your future success.
         Andrew Ng
+
+The proper use of comments is to compensate for our failure to express yourself in code.
+        Uncle Bob Martin
