@@ -87,3 +87,6 @@ mindset, even more than knowledge, predicts your future success.
 
 The proper use of comments is to compensate for our failure to express yourself in code.
         Uncle Bob Martin
+
+Inside every well-written large program is a well-written small program.
+        C.A.R Hoare
