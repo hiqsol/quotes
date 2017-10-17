@@ -90,3 +90,6 @@ The proper use of comments is to compensate for our failure to express yourself 
 
 Inside every well-written large program is a well-written small program.
         C.A.R Hoare
+
+Programming is not about typing, it's about thinking.
+        Rich Hickey
