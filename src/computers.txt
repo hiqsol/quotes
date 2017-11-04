@@ -133,3 +133,8 @@ Hardware: The parts of a computer system that can be kicked.
 - How did you know so much about computers?
 - I didn’t, it was the first one.
         Grace Hopper on Letterman
+
+1969: - What're you doing with that 2KB of RAM?
+      - Sending people to the moon
+2017: - What're you doing with that 1.5GB of RAM?
+      - Running Slack
