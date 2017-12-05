@@ -93,3 +93,11 @@ Inside every well-written large program is a well-written small program.
 
 Programming is not about typing, it's about thinking.
         Rich Hickey
+
+The first 90% of the code accounts for the first 90% of the development time.
+The remaining 10% of the code accounts for the other 90% of the development time.
+        John Johnson
+
+The strength of JavaScript is that you can do anything.
+The weakness is that you will.
+        Reg Braithwaite
