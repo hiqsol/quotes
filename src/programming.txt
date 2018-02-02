@@ -101,3 +101,22 @@ The remaining 10% of the code accounts for the other 90% of the development time
 The strength of JavaScript is that you can do anything.
 The weakness is that you will.
         Reg Braithwaite
+
+I'm not a great programmer; I'm just a good programmer with great habits.
+        Kent Beck
+
+No one in the brief history of computing has ever written a piece of perfect software.
+It's unlikely that you'll be the first.
+        Andy Hunt
+
+Testing leads to failure, and failure leads to understanding.
+        Burt Rutan
+
+Measuring programming progress by lines of code is like measuring
+aircraft building progress by weight.
+        Bill Gates
+
+Minimize complexity.
+The simpler the product, the more likely you are to actually ship it,
+and the more likely you are to fix problems quickly.
+        Slava Akhmechet
