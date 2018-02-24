@@ -39,6 +39,15 @@ A primary cause of complexity is that software vendors uncritically
 adopt almost any feature that users want.
         Niklaus Wirth
 
+Minimize complexity.
+The simpler the product, the more likely you are to actually ship it,
+and the more likely you are to fix problems quickly.
+        Slava Akhmechet
+
+The costs of complexity, rough as they are during development,
+bite hardest after deployment.
+        Eric Steven Raymond
+
 No one in the brief history of computing has ever written a piece
 of perfect software. It's unlikely that you'll be the first.
         Andy Hunt
@@ -115,8 +124,3 @@ Testing leads to failure, and failure leads to understanding.
 Measuring programming progress by lines of code is like measuring
 aircraft building progress by weight.
         Bill Gates
-
-Minimize complexity.
-The simpler the product, the more likely you are to actually ship it,
-and the more likely you are to fix problems quickly.
-        Slava Akhmechet
