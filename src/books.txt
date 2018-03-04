@@ -1,0 +1,2 @@
+It's both what you say and the way you say it.
+        Andy Hunt and Dave Thomas. Pragmatic Programmer
