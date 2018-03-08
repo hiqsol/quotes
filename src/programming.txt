@@ -26,9 +26,6 @@ If debugging is the process of removing software bugs,
 then programming must be the process of putting them in.
         Edsger Dijkstra
 
-Would you rather Test-First or Debug-Later?
-        Robert Marti
-
 Being a good programmer is 3% talent 97% not being distracted by the internet.
         @MSFTImagine
 
@@ -126,6 +123,9 @@ Testing leads to failure, and failure leads to understanding.
 
 Testing can show the presence of errors, but not their absence.
         E. W. Dijkstra
+
+Would you rather Test-First or Debug-Later?
+        Robert Marti
 
 Measuring programming progress by lines of code is like measuring
 aircraft building progress by weight.
