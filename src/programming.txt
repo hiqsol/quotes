@@ -48,6 +48,9 @@ The costs of complexity, rough as they are during development,
 bite hardest after deployment.
         Eric Steven Raymond
 
+So much complexity in software comes from trying to make one thing do two things.
+        Ryan Singer
+
 No one in the brief history of computing has ever written a piece
 of perfect software. It's unlikely that you'll be the first.
         Andy Hunt
