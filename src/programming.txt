@@ -121,6 +121,9 @@ It's unlikely that you'll be the first.
 Testing leads to failure, and failure leads to understanding.
         Burt Rutan
 
+Testing can show the presence of errors, but not their absence.
+        E. W. Dijkstra
+
 Measuring programming progress by lines of code is like measuring
 aircraft building progress by weight.
         Bill Gates
