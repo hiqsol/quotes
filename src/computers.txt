@@ -37,10 +37,6 @@ Conway's law: organizations which design systems are constrained to
 produce designs which are copies of the communication structures of
 these organizations.
 
-The object-oriented version of spaghetti code is, of course,
-'lasagna code'. Too many layers.
-        Roberto Waltman
-
 Computer science is no more about computers than astronomy is about telescopes.
         Edsger Dijkstra
 

@@ -26,6 +26,10 @@ If debugging is the process of removing software bugs,
 then programming must be the process of putting them in.
         Edsger Dijkstra
 
+The object-oriented version of spaghetti code is, of course,
+'lasagna code'. Too many layers.
+        Roberto Waltman
+
 Being a good programmer is 3% talent 97% not being distracted by the internet.
         @MSFTImagine
 
@@ -96,6 +100,10 @@ mindset, even more than knowledge, predicts your future success.
 
 The proper use of comments is to compensate for our failure to express yourself in code.
         Uncle Bob Martin
+
+Any fool can write code that a computer can understand.
+Good programmers write code that humans can understand.
+        Martin Fowler
 
 Inside every well-written large program is a well-written small program.
         C.A.R Hoare
