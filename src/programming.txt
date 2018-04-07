@@ -144,3 +144,6 @@ Code is like humor. When you have to explain it, it’s bad.
 
 Hardware eventually fails. Software eventually works.
         Michael Hartung
+
+An evolving system increases its complexity unless work is done to reduce it.
+        Meir Lehman
