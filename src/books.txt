@@ -4,3 +4,9 @@ It's both what you say and the way you say it.
 It’s not at all important to get it right the first time.
 It’s vitally important to get it right the last time.
         Andy Hunt and Dave Thomas. The Pragmatic Programmer
+
+Я давно заметил, что граждан, дурно отзывающихся о моём
+творчестве, объединяет одна общая черта. Все они отличаются
+от говна только тем, что полностью лишены его полезных
+качеств.
+        Пелевин. iPhuck 10
