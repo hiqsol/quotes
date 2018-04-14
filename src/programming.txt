@@ -147,3 +147,6 @@ Hardware eventually fails. Software eventually works.
 
 An evolving system increases its complexity unless work is done to reduce it.
         Meir Lehman
+
+Good software, like wine, takes time.
+        Joel Spolsky
