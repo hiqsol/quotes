@@ -9,6 +9,10 @@
 Duck typing: dynamic mechanism allowing to discover that a fish cannot say quack
 only at runtime ... in production ... on Friday evening
 
+There is no programming language–no matter how structured–that will
+prevent programmers from making bad programs.
+        Larry Flon
+
 Debugging is twice as hard as writing code in the first place. Therefore,
 if you write the code as cleverly as possible, you are, by definition,
 not smart enough to debug it.
