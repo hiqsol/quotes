@@ -130,10 +130,14 @@ Testing leads to failure, and failure leads to understanding.
         Burt Rutan
 
 Testing can show the presence of errors, but not their absence.
-        E. W. Dijkstra
+        Edsger Dijkstra
+
+Program testing can be a very effective way to show the presence of bugs,
+but is hopelessly inadequate for showing their absence.
+        Edsger Dijkstra
 
 Would you rather Test-First or Debug-Later?
-        Robert Marti
+        Robert Martin
 
 Measuring programming progress by lines of code is like measuring
 aircraft building progress by weight.
