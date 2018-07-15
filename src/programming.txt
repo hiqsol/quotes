@@ -94,6 +94,9 @@ It’s not at all important to get it right the first time.
 It’s vitally important to get it right the last time.
         The Pragmatic Programmer
 
+Dead programs tell no lies
+        The Pragmatic Programmer
+
 One of the best programming skills you can have
 is knowing when to walk away for a while.
         Oscar Godson
@@ -254,3 +257,12 @@ than any programming tool or technique.
 As a software developer, you are your own worst enemy.
 The sooner you realize that, the better off you’ll be.
         Jeff Atwood
+
+I’ve learned over the past few years that comments should be considered smells.
+        Ron Lisle
+
+Good design adds value faster than it adds cost.
+        Thomas C. Gale
+
+If it hasn’t been tested, it doesn’t work.
+        Eric Mason
