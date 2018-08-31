@@ -266,3 +266,13 @@ Good design adds value faster than it adds cost.
 
 If it hasn’t been tested, it doesn’t work.
         Eric Mason
+
+Vacations are chaos monkey for the organization.
+Minimum vacation policies build sustainable & fault-tolerant teams.
+
+If you can get today’s work done today, but you do it in such a way
+that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+        Martin Fowler
+
+Weeks of coding can save you hours of planning.
+        Unknown
