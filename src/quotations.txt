@@ -668,6 +668,14 @@ Creativity requires the courage to let go of certainties.
 The way to get good ideas is to get lots of ideas and throw the bad ones away.
         Linus Pauling
 
+The average user doesn't give a damn what happens,
+as long as (1) it works and (2) it's fast.
+        Daniel J. Bernstein
+
+The best way to get the right answer [..] is not to ask a question;
+it’s to post the wrong answer.
+        Cunningham’s Law
+
 Овладей делом, слова найдутся.
         Катон Старший
 

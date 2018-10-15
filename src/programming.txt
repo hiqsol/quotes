@@ -276,3 +276,11 @@ that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 
 Weeks of coding can save you hours of planning.
         Unknown
+
+The trouble with programmers is that you can never tell
+what a programmer is doing until it’s too late.
+        Seymour Cray
+
+Computer Science is the discipline that believes all problems can be
+solved with one more layer of indirection.
+        Dennis DeBruler
