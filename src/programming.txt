@@ -287,3 +287,7 @@ what a programmer is doing until it’s too late.
 Computer Science is the discipline that believes all problems can be
 solved with one more layer of indirection.
         Dennis DeBruler
+
+You might not think that programmers are artists, but programming
+is an extremely creative profession. It's logic-based creativity.
+        John Romero
