@@ -26,10 +26,6 @@ Telling a programmer there's already a library to do X is like
 telling a songwriter there's already a song about love.
         @petecordell
 
-If debugging is the process of removing software bugs,
-then programming must be the process of putting them in.
-        Edsger Dijkstra
-
 The object-oriented version of spaghetti code is, of course,
 'lasagna code'. Too many layers.
         Roberto Waltman
@@ -135,6 +131,13 @@ It's unlikely that you'll be the first.
 
 Testing leads to failure, and failure leads to understanding.
         Burt Rutan
+
+Simplicity is prerequisite for reliability.
+        Edsger Dijkstra
+
+If debugging is the process of removing software bugs,
+then programming must be the process of putting them in.
+        Edsger Dijkstra
 
 Testing can show the presence of errors, but not their absence.
         Edsger Dijkstra
