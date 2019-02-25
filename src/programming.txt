@@ -291,3 +291,9 @@ solved with one more layer of indirection.
 You might not think that programmers are artists, but programming
 is an extremely creative profession. It's logic-based creativity.
         John Romero
+
+Every bug you take.
+Every pull you make.
+Every build you break.
+I'll be watching you.
+        The DevOps Song
