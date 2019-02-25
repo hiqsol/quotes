@@ -297,3 +297,8 @@ Every pull you make.
 Every build you break.
 I'll be watching you.
         The DevOps Song
+
+Optimisation isn’t always about squeezing the last few ounces of horsepower
+from the red-lining engine, it’s just about releasing the handbrake before
+putting your foot down.
+        Brian McConnell
