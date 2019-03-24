@@ -6,6 +6,9 @@
 
 Багфистинг.
 
+Q: What is the best prefix for global variables?
+A: //
+
 Duck typing: dynamic mechanism allowing to discover that a fish cannot say quack
 only at runtime ... in production ... on Friday evening
 
