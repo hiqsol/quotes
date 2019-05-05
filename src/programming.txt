@@ -309,3 +309,6 @@ putting your foot down.
 The first step of any project is to grossly underestimate
 its complexity and difficulty.
         Nicoll Hunt
+
+No code is faster than no code.
+        Merb Motto
