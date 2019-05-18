@@ -312,3 +312,9 @@ its complexity and difficulty.
 
 No code is faster than no code.
         Merb Motto
+
+Programming concepts seem like warp-drive tech when you first encounter them
+and like sewage systems once you understand them
+This is true of most engineering. It will be true of warp drives when we
+invent them. I bet a leaky dilithium matrix smells like ass.
+        @vgr
