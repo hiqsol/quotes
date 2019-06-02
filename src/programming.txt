@@ -21,6 +21,8 @@ if you write the code as cleverly as possible, you are, by definition,
 not smart enough to debug it.
         Brian Kernighan
 
+Debuggers don't remove bugs. They only show them in slow motion.
+
 Contrary to popular belief, Unix is user friendly.
 It just happens to be selective about who it makes friends with.
         Dave Parnas
