@@ -331,3 +331,7 @@ Data structures, not algorithms, are central to programming.
 
 The best error message is the one that never shows up.
         Thomas Fuchs
+
+A Fallacy of Software:
+If it works, and we don't change anything, it will keep working.
+        Jessica Kerr
