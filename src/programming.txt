@@ -335,3 +335,7 @@ The best error message is the one that never shows up.
 A Fallacy of Software:
 If it works, and we don't change anything, it will keep working.
         Jessica Kerr
+
+The trick is to fix the problem you have,
+rather than the problem you want.
+        Bram Cohen
