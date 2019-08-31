@@ -339,3 +339,5 @@ If it works, and we don't change anything, it will keep working.
 The trick is to fix the problem you have,
 rather than the problem you want.
         Bram Cohen
+
+If at first you don’t succeed, call it version 1.0.
