@@ -348,3 +348,6 @@ I have only proved it correct, not tried it.
 
 Talk is cheap. Show me the code.
         Linus Torvalds
+
+You've baked a really lovely cake, but then you've used dog shit for frosting.
+        Steve Jobs
