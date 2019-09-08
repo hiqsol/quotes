@@ -351,3 +351,10 @@ Talk is cheap. Show me the code.
 
 You've baked a really lovely cake, but then you've used dog shit for frosting.
         Steve Jobs
+
+When they first built the University of California at Irvine they just put
+the buildings in. They did not put any sidewalks, they just planted grass.
+The next year, they came back and put the sidewalks where the trails were
+in the grass. Perl is just that kind of language. It is not designed from
+first principles. Perl is those sidewalks in the grass.
+        Larry Wall
