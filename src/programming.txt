@@ -358,3 +358,9 @@ The next year, they came back and put the sidewalks where the trails were
 in the grass. Perl is just that kind of language. It is not designed from
 first principles. Perl is those sidewalks in the grass.
         Larry Wall
+
+Services, micro or otherwise, are not automatically decoupled.
+Indeed, without proper architectural consideration they can be just as coupled
+as any spaghetti monolith. Decoupling is independent of services.
+Once decoupled a system can be deployed as services or not.
+        Bob Martin
