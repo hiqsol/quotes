@@ -31,6 +31,10 @@ Telling a programmer there's already a library to do X is like
 telling a songwriter there's already a song about love.
         Peter Cordell
 
+At forty, I was too old to work as a programmer myself anymore;
+writing code is a young person’s job.
+        Michael Crichton
+
 The object-oriented version of spaghetti code is, of course,
 'lasagna code'. Too many layers.
         Roberto Waltman
