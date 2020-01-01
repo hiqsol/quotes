@@ -384,3 +384,7 @@ I don't want you to be good at the debugger.
 
 Complexity is such a bright candle for us hacker-moths.
         Rusty Russell (creator of iptables)
+
+The trick is to fix the problem you have,
+rather than the problem you want.
+        Bram Cohen
