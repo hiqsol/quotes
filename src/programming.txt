@@ -6,6 +6,9 @@
 
 Багфистинг.
 
+0 программистов ругал усталый шеф,
+потом уволил одного и стало их FF.
+
 Q: What is the best prefix for global variables?
 A: //
 
