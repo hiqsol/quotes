@@ -50,6 +50,10 @@ themselves upon execution.
 Good code is its own best documentation.
         Steve McConnell
 
+Good code is easy to delete.
+
+Write code that's easy to delete, not easy to extend.
+
 Software and cathedrals are much the same – first we build them,
 then we pray.
         Samuel T. Redwine Jr.
@@ -207,9 +211,6 @@ of perfect software. It's unlikely that you'll be the first.
 Everybody wants to write reusable code.
 Nobody wants to reuse anyone else's code.
         @eryno
-
-Good code is its own best documentation.
-        Steve McConnell
 
 If you have a procedure with ten parameters, you probably missed some.
         Alan Perlis
