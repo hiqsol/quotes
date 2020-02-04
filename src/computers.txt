@@ -33,6 +33,10 @@
 Моё дело накуриться и попытаться разобратся, как работает то,
 что понаписывали алкаши.
 
+Знали ли вы, что если создать на проекте папочку utils,
+всего через месяц туда накоммитят примерно 80% логики проекта.
+        @vas3k
+
 Conway's law: organizations which design systems are constrained to
 produce designs which are copies of the communication structures of
 these organizations.
