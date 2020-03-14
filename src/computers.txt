@@ -41,9 +41,6 @@ Conway's law: organizations which design systems are constrained to
 produce designs which are copies of the communication structures of
 these organizations.
 
-Computer science is no more about computers than astronomy is about telescopes.
-        Edsger Dijkstra
-
 One of my most productive days was throwing away 1,000 lines of code.
         Ken Thompson
 
@@ -84,10 +81,6 @@ do it both ways and see which works better.
 
 Talk is cheap. Show me the code.
         Linus Torvalds
-
-Simplicity & elegance are unpopular because they require hard
-work & discipline to achieve & education to be appreciated.
-        Dijkstra
 
 Documentation is like sex. When it's good, it's oh-so-good.
 When it's bad it's better than nothing.
@@ -285,6 +278,13 @@ It's unlikely that you'll be the first.
 
 Testing leads to failure, and failure leads to understanding.
         Burt Rutan
+
+Computer science is no more about computers than astronomy is about telescopes.
+        Edsger Dijkstra
+
+Simplicity & elegance are unpopular because they require hard
+work & discipline to achieve & education to be appreciated.
+        Edsger Dijkstra
 
 Simplicity is prerequisite for reliability.
         Edsger Dijkstra
