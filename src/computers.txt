@@ -300,6 +300,10 @@ Program testing can be a very effective way to show the presence of bugs,
 but is hopelessly inadequate for showing their absence.
         Edsger Dijkstra
 
+The question of whether Machines Can Think...
+is about as relevant as the question of whether Submarines Can Swim.
+        Edsger Dijkstra
+
 Would you rather Test-First or Debug-Later?
         Robert Martin
 
