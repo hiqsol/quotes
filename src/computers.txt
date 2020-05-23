@@ -161,6 +161,10 @@ if you write the code as cleverly as possible, you are, by definition,
 not smart enough to debug it.
         Brian Kernighan
 
+The most effective debugging tool is still careful thought,
+coupled with judiciously placed print statements.
+        Brian W. Kernighan
+
 Debuggers don't remove bugs. They only show them in slow motion.
 
 Contrary to popular belief, Unix is user friendly.
