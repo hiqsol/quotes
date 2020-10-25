@@ -419,6 +419,9 @@ than any programming tool or technique.
 Прежде, чем начать сеанс парного программирования, уберите из комнаты все острые предметы.
         Брендан Эйх
 
+Being a good programmer is 3% talent
+and 97% not being distracted by internet.
+
 As a software developer, you are your own worst enemy.
 The sooner you realize that, the better off you’ll be.
         Jeff Atwood
