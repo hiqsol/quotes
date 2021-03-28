@@ -10,7 +10,7 @@
 
 Just my collection of smart and/or funny thoughts.
 
-And `bin/random` python script to get a random one.
+And `bin/quotes` python script to get a random one.
 
 ## Installation
 
