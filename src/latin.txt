@@ -6,15 +6,14 @@ Homo homini lupus est - Человек человеку - волк
 E pluribus unum - Из многих единственное
         Девиз США
 
-Nemo me impune lacesset - Никто меня не тронет безнаказано
+Nemo me impune lacessit - Никто меня не тронет безнаказано
         Девиз Ирландии
 
 Plus Ultra - Дальше предела
         Девиз Испании
 
-Nosce te ipsum - познай самого себя
-
-Temet nosce - познай самого себя
+In varietate concordia - Согласие в многообразии
+        Девиз Европейского союза
 
 Casus belli - Повод к войне
 
@@ -44,4 +43,8 @@ Res firma mitescere nescit -
 Vae victis - Горе побежденным
 
 Tertium non datur - Третьего не дано
+
+Nosce te ipsum - познай самого себя
+
+Temet nosce - познай самого себя
 
