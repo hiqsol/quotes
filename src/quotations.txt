@@ -77,6 +77,13 @@ Education is what remains after one has forgotten everything he
 learned in school.
         Albert Einstein
 
+To raise new questions, new possibilities, to regard old problems from
+a new angle, requires creative imagination and marks real advance in science.
+        Albert Einstein
+
+Imagination is everything. It is the preview of life's coming attractions.
+        Albert Einstein
+
 A good solution applied with vigor now is better than a perfect
 solution applied ten minutes later.
         George S. Patton
@@ -670,10 +677,6 @@ Nothing is so embarrassing as watching someone do something
 that you said could not be done.
         Sam Ewing
 
-To raise new questions, new possibilities, to regard old problems from
-a new angle, requires creative imagination and marks real advance in science.
-        Albert Einstein
-
 Nothing is so embarrassing as watching someone do something
 that you said could not be done.
         Sam Ewing
@@ -743,9 +746,6 @@ Find your passion... then it is no longer work!
 
 All our dreams can come true, if we have the courage to pursue them.
         Walt Disney
-
-Imagination is everything. It is the preview of life's coming attractions.
-        Albert Einstein
 
 There's a way to do it better—find it.
         Thomas Edison
