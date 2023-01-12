@@ -138,6 +138,7 @@ Hardware: The parts of a computer system that can be kicked.
       - Sending people to the moon
 2017: - What're you doing with that 1.5GB of RAM?
       - Running Slack
+
 Кодобаза.
 
 Кадилище.
