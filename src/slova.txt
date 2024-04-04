@@ -658,3 +658,9 @@ Cossack nation has no translation
 
 Стара пойобана ондатра.
 
+Rychlost - скорость (чешский).
+
+Ockovat - прививать (чешский).
+
+Padla - весло (чешский).
+
